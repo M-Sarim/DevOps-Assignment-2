@@ -1,0 +1,11 @@
+# Files
+.DS_Store
+.env.sample
+.gitignore
+README.md
+
+# Folders
+.git/
+.vscode/
+dist/
+node_modules/
